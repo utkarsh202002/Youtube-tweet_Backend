@@ -1,0 +1,27 @@
+// npm init
+// npm i express
+// npm i mongoose
+// npm i dotenv
+// npm i -D nodemon  //in dev dependency
+// npm i bcrypt
+//npm i jsonwebtoken
+//npm i cloudinary
+//npm i multer
+
+
+
+
+
+
+//Notes to remember
+//1.Database is always in another continent so it took
+//time to ffetch data---always use async and await
+
+//always wrap the code in try catch block
+
+//!!!!async await alays returns promise and then you can use .then()m and .catch() --> to handle the error
+
+
+//app.use() methods used mostly for middleware and configuration
+
+
