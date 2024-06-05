@@ -4,9 +4,9 @@ This is a YOUTUBE + TWITTER backend project that covers allmost the functionalit
 # Features
 
 # User Management:
-*Registration, login, logout, password reset
-*Profile management (avatar, cover image, details)
-*Watch history tracking
+* Registration, login, logout, password reset
+* Profile management (avatar, cover image, details)
+* Watch history tracking
 
 #Video Management:
 -Video upload and publishing
