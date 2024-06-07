@@ -2,6 +2,14 @@
 This is a YOUTUBE + TWITTER backend project that covers allmost the functionalities of youtube and also combines the tweet functionality from twitter into it.
 
 # Features
+* User Management
+* Video Management
+* Tweet Management
+* Subscription Management
+* Playlist Management
+* Like Management
+* Comment Management
+* Health Check
 
 # User Management:
 * Registration, login, logout, password reset
